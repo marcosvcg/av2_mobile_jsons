@@ -1,0 +1,86 @@
+[
+   {
+      "id":"2082142154",
+      "nome":"X-Bacon",
+      "descricao":"Hamburguer feito com pao de hamburguer com gergelim, 2 fatias de queijo mussarela, cebola, bacon, picles e molho da casa",
+      "preco":10.99,
+      "imagemUrl":"https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcRTAdCJ287hw6LGtqN3IRNu-QWhZL7rVcCJHw\u0026usqp\u003dCAU"
+   },
+   {
+      "id":"1627543189",
+      "nome":"Pocao de Vida",
+      "descricao":"Recarregue suas forcas com essa pocao de vida! Feita com frutas vermelhas, pessego, agua com gas e limao.",
+      "preco":6.99,
+      "imagemUrl":"https://riddlewands.com/wp-content/uploads/2022/11/RK402586.jpg"
+   },
+   {
+      "id":"-1785095782",
+      "nome":"Pocao de Mana",
+      "descricao":"Recarregue sua magia com essa pocao de laranja, limao e agua com gas!",
+      "preco":5.99,
+      "imagemUrl":"https://riddlewands.com/wp-content/uploads/2022/11/RK402593.jpg"
+   },
+   {
+      "id":"-1998048710",
+      "nome":"Doce do Deserto",
+      "descricao":"Sinta o gosto do Velho Oeste nessa bebida tematica feita com maca verde, gengibre e agua com gas.",
+      "preco":7.99,
+      "imagemUrl":"https://m.media-amazon.com/images/I/61DUhg21eHL._AC_UF894,1000_QL80_.jpg"
+   },
+   {
+      "id":"997230672",
+      "nome":"Salmao ao Amaranto",
+      "descricao":"Salmao com crosta de amaranto, gergelim e castanhas-de-caju. Acompanha molho de limao siciliano.",
+      "preco":28.99,
+      "imagemUrl":"https://www.receitasnestle.com.br/sites/default/files/srh_recipes/a4889171abad3d5c59ab267d5e414b77.jpg"
+   },
+   {
+      "id":"-188455937",
+      "nome":"Risoto",
+      "descricao":"Risoto de camarao refogado no alho com salsa, coentro, pimenta-do-reino e limao siciliano",
+      "preco":26.99,
+      "imagemUrl":"https://img.cybercook.com.br/receitas/923/risoto-de-camarao-4.jpeg"
+   },
+   {
+      "id":"1164534081",
+      "nome":"Lagosta ao Molho de Ervas",
+      "descricao":"Lagosta gratinada com brocolis, arroz temperado com cenoura e creme de ervas",
+      "preco":42.99,
+      "imagemUrl":"https://media-cdn.tripadvisor.com/media/photo-s/1d/3a/3d/35/lagosta-gratinada-com.jpg"
+   },
+   {
+      "id":"245676661",
+      "nome":"Petit Gateau",
+      "descricao":"Mini bolo de chocolate ao leite com recheio cremoso, servido com morango e mirtilo",
+      "preco":12.99,
+      "imagemUrl":"https://s2-g1.glbimg.com/awHQEljm5ya3JW10CMKQqdm29xc\u003d/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/B/I/EiOwxCRuKncoi32eyM5Q/petit-gateau-8-.jpeg"
+   },
+   {
+      "id":"-780020977",
+      "nome":"Banana Split",
+      "descricao":"Banana Split delicioso feito com sorvete napolitano, banana nanica, chantilly e cerejas, com caldas de caramelo, chocolate e morango.",
+      "preco":11.99,
+      "imagemUrl":"https://www.receitasnestle.com.br/sites/default/files/srh_recipes/6527be00a1ed2e4c876d03a0348b2bbe.jpg"
+   },
+   {
+      "id":"947445063",
+      "nome":"Torta de cafe",
+      "descricao":"Uma fatia da nossa maravilhosa torta gelada de cafe e chocolate com chantilly.",
+      "preco":21.99,
+      "imagemUrl":"https://guiadacozinha.com.br/wp-content/uploads/2019/11/torta-gelada-cafe-chocolate.jpg"
+   },
+   {
+      "id":"-957263681",
+      "nome":"Beirute",
+      "descricao":"Beirute de carne com requeijao, feito com alcatra em tiras, tomate refogado, alface e duas fatias de queijo prato, ao molho Maggi",
+      "preco":6.99,
+      "imagemUrl":"https://www.comidaereceitas.com.br/img/sizeswp/1200x675/2020/11/beirute_carne.jpg"
+   },
+   {
+      "id":"828432757",
+      "nome":"Batata Frita",
+      "descricao":"Porcao grande de batatas fritas com bacon e molho cheddar.",
+      "preco":9.99,
+      "imagemUrl":"https://portalatualidade.com.br/images/noticias/3202/23012018165054_Friesss.jpg"
+   }
+]
